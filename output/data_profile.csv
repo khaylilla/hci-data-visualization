@@ -1,0 +1,19 @@
+dataset,column,dtype,rows,missing,missing_percent,unique_non_missing,example
+applications,App,str,10841,0,0.0,9660,Photo Editor & Candy Camera & Grid & ScrapBook
+applications,Category,str,10841,0,0.0,34,ART_AND_DESIGN
+applications,Rating,float64,10841,1474,13.6,40,4.1
+applications,Reviews,str,10841,0,0.0,6002,159
+applications,Size,str,10841,0,0.0,462,19M
+applications,Installs,str,10841,0,0.0,22,"10,000+"
+applications,Type,str,10841,1,0.01,3,Free
+applications,Price,str,10841,0,0.0,93,0
+applications,Content Rating,str,10841,1,0.01,6,Everyone
+applications,Genres,str,10841,0,0.0,120,Art & Design
+applications,Last Updated,str,10841,0,0.0,1378,"January 7, 2018"
+applications,Current Ver,str,10841,8,0.07,2832,1.0.0
+applications,Android Ver,str,10841,3,0.03,33,4.0.3 and up
+reviews,App,str,64295,0,0.0,1074,10 Best Foods for You
+reviews,Translated_Review,str,64295,26868,41.79,27994,"I like eat delicious food. That's I'm cooking food myself, case ""10 Best Foods"" helps lot, also ""Bes"
+reviews,Sentiment,str,64295,26863,41.78,3,Positive
+reviews,Sentiment_Polarity,float64,64295,26863,41.78,5410,1.0
+reviews,Sentiment_Subjectivity,float64,64295,26863,41.78,4474,0.5333333333333333

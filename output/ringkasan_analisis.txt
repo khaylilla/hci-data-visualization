@@ -1,0 +1,23 @@
+Ringkasan analisis Google Play Store
+
+Baris aplikasi mentah: 10,841
+Duplikasi baris aplikasi persis: 483
+Nama aplikasi berulang setelah deduplikasi persis: 698
+Record aplikasi unik yang dianalisis: 9,660
+Kategori valid: 33
+Aplikasi dengan rating valid: 8,196
+Rata-rata rating valid (0-5): 4.173
+Rating di luar rentang yang ditemukan: 1
+Baris ulasan mentah: 64,295
+Ulasan dengan teks dan label sentimen valid: 29,692
+Duplikasi baris ulasan persis: 33,616
+Ulasan valid dengan nama aplikasi cocok persis: 28,250
+Nama aplikasi ulasan yang tidak cocok: 49
+Kategori dengan aplikasi terbanyak: {'category': 'FAMILY', 'apps': 1832}
+Distribusi sentimen: {'Positive': 19015, 'Negative': 6321, 'Neutral': 4356}
+Korelasi Spearman berpasangan: {'rating_reviews': 0.12, 'rating_installs': 0.027, 'reviews_installs': 0.968}
+Nilai ukuran aplikasi yang dapat dikonversi ke MB: 8,432
+
+Installs berakhiran '+' ditafsirkan sebagai batas bawah; total kategori adalah
+penjumlahan batas bawah, bukan jumlah instalasi aktual yang presisi.
+Profil kolom dan grafik PNG tersimpan di folder output/.
